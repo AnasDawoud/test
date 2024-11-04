@@ -1,0 +1,50 @@
+body {
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+  font-family: "Times New Roman";
+
+}
+.countener {
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.countener img {
+width: 300px;
+border-radius: 8px;
+}
+.countener h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+.countener p {
+    line-height: 1.6;
+    
+} 
+.main {
+    border: 1px solid rgba(0, 0, 0, 0.221);
+    margin-top: 10px;
+
+}
+.main p {
+    margin: 1px ;
+
+}
+.main p span {
+  
+    font-weight: bold;
+}
+.first {
+padding-bottom: 20px;
+}
+.final {
+    padding-top: 20px;
+}
